@@ -1,0 +1,222 @@
+body {
+  overflow-x: hidden;
+  font-family: 'Lato', sans-serif;
+  color: white;
+  background-color: #ddcf9c;
+}
+
+
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-text ,
+.navbar-custom .navbar-link{
+    color:orange;
+}
+
+
+
+
+.landing {
+
+  height: 60vh;
+  background-color:#f4f0e1;
+
+}
+
+.home-inner {
+
+  background-color: #f4f0e1;
+  opacity: 0.75;
+  position: fixed;
+  top: 25%;
+  z-index: 1;
+
+}
+
+.caption {
+
+  align-content: center;
+  width: 100%;
+  max-width: 100%;
+  position: absolute;
+  top: 20%;
+}
+
+.caption h1{
+  font-size: 3rem;
+
+  text-shadow: .2rem .2rem 1rem black;
+  padding-bottom: 1rem;
+
+
+}
+
+.caption h3 {
+
+  font-size:1rem;
+  letter-spacing: .3rem;
+  text-shadow: .2rem .2rem 1rem black;
+  padding-bottom: 3rem;
+
+
+}
+
+
+/*-- Landing Page Caption --*/
+
+
+
+
+
+/*============= MEDIA QUERIES =============*/
+
+/* Devices under 768px (md) */
+@media (max-width: 767.98px) {
+
+  .caption {
+    font-size: 2rem;
+    text-shadow: .2rem .2rem 1rem black;
+    padding-bottom: .5rem;
+  
+  
+  }
+  
+  .caption h3 {
+  
+    font-size: 1rem;
+    letter-spacing: .1rem;
+    text-shadow: .2rem .2rem 1rem black;
+    padding-bottom: 1.2rem;
+  
+  
+  }
+  
+  #octocat img {
+
+    max-width: 60%;
+    position: relative;
+    
+    margin-right: 0px;
+
+  }
+
+  #flower  {
+
+    width: 9%;
+    left: 45%;
+    position: relative;
+  }
+
+
+
+}
+
+
+
+@media (min-width:770px) {
+
+.hack {
+
+  left:15%;
+
+}
+
+.landing {
+  height: 80vh;
+}
+
+#flower {
+  position: relative;
+  padding-top: 7%;
+  left: 5%;
+  align-items: center;
+}
+
+#org-logo {
+
+  position: relative;
+  left: -20%;
+}
+
+}
+
+
+/*-- INCLUDED STYLE --*/
+
+/*--- Fixed Landing Page Section --*/
+.landing {
+  position: relative;
+  width: 100%;
+  display: table;
+  z-index: -1;
+}
+.home-wrap {
+  clip: rect(0, auto, auto, 0);
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.home-inner {
+  display: table;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-position: center center;
+  -webkit-transform: translateZ(0);
+          transform: translateZ(0);
+  will-change: transform;
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 90%;
+  border-radius: 5px;
+  max-height: 100%;
+}
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.card img {
+  border-radius: 50%;
+}
+
+.content {
+  padding: 2px 16px;
+}
+
+
+
+
+
+
+
+.typewriter {
+  color: #fff;
+
+  overflow: hidden; /* Ensures the content is not revealed until the animation */
+  border-right: .15em solid orange; /* The typwriter cursor */
+  white-space: nowrap; /* Keeps the content on a single line */
+  margin: 0 auto; /* Gives that scrolling effect as the typing happens */
+  letter-spacing: .15em; /* Adjust as needed */
+  animation: 
+    typing 3s steps(40, end),
+    blink-caret .5s step-end infinite;
+}
+
+/* The typing effect */
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
+
+/* The typewriter cursor effect */
+@keyframes blink-caret {
+  from, to { border-color: transparent }
+  50% { border-color: orange }
+}
