@@ -6,8 +6,8 @@ Voila you have now your organisation landing page. Track contribution stats and 
 [Demo ](https://mayukhpankaj.github.io/Hacktoberfest-Organiser-Page/)
 
 ##SETUP
- -fork repository
- -change config file
- -enable github pages.
+ - fork repository
+ - change config file
+ - enable github pages.
  
  
