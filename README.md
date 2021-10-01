@@ -30,6 +30,11 @@ https://user-images.githubusercontent.com/40158577/135586754-bbaf3553-0757-4500-
 
 https://user-images.githubusercontent.com/40158577/135585650-9c85652d-8a7e-4ef3-8241-7e26976af373.mp4
 
+## How it works
+ - Uses Github api to get Repo data
+ - show contributer's avatar and stats
+ - bootstrap 5 responsive.
+
 
 
 
