@@ -5,7 +5,7 @@ Voila you have now your organisation landing page. Track contribution stats and 
 
 [Preview Website](https://mayukhpankaj.github.io/Hacktoberfest-Organiser-Page/)
 
-![preview](https://github.com/mayukhpankaj/Hacktoberfest-Organiser-Page/blob/main/preview.webm)
+![preview](https://github.com/mayukhpankaj/Hacktoberfest-Organiser-Page/blob/main/setup.mp4)
 
 ## Setup
  - fork repository
