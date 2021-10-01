@@ -1,10 +1,10 @@
-# Hacktoberfest-Organiser-Page
+# Hacktoberfest-Organiser-Page 🚀
 ##### Create your Hacktoberfest organiser page in seconds. fork change &amp;  change config file !
 Voila you have now your organisation landing page. Track contribution stats and many more ..
 
-- Share your Project and Repository
-- Show Contributors and stats.
-- Hactoberfest 2021 theme
+- Share your Project, Repository, Social links 📢
+- Showcase Contributors 👨‍💻
+- Hactoberfest 2021 theme 🌇
 
 
 
@@ -22,10 +22,10 @@ https://user-images.githubusercontent.com/40158577/135586754-bbaf3553-0757-4500-
 
 
 
-## Setup
- - fork repository
- - change config file
- - enable github pages.
+## Setup 🔨 
+ - fork repository 🍴
+ - change config file ✏️
+ - enable github pages 🌐
 
 
 https://user-images.githubusercontent.com/40158577/135585650-9c85652d-8a7e-4ef3-8241-7e26976af373.mp4
@@ -36,7 +36,7 @@ https://user-images.githubusercontent.com/40158577/135585650-9c85652d-8a7e-4ef3-
  - bootstrap 5 responsive.
 
 
-
+## If you liked star and connect with me on Github.  🙌
 
  
  
