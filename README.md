@@ -1,11 +1,15 @@
 # Hacktoberfest-Organiser-Page
-#####Create your Hacktoberfest organiser page in seconds. fork change &amp;  change config file !
+##### Create your Hacktoberfest organiser page in seconds. fork change &amp;  change config file !
 Voila you have now your organisation landing page. Track contribution stats and many more ..
 
+- Share your Project and Repository
+- Show Contributors and stats.
+- Hactoberfest 2021 theme
 
 
 
-##Preview
+
+## Preview
 
 [Preview Website](https://mayukhpankaj.github.io/Hacktoberfest-Organiser-Page/)
 
