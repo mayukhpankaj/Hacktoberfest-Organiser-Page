@@ -32,22 +32,20 @@ body {
 
 }
 
-.caption {
+.section-1{
+  background-color: #f4f0e1;
+  /* padding-top: 10vh;
+  padding-bottom: 10vh; */
+}
 
-  align-content: center;
-  width: 100%;
+.caption {
   max-width: 100%;
-  position: absolute;
-  top: 20%;
 }
 
 .caption h1{
   font-size: 3rem;
-
   text-shadow: .2rem .2rem 1rem black;
   padding-bottom: 1rem;
-
-
 }
 
 .caption h3 {
@@ -99,26 +97,16 @@ body {
 
   }
 
-  #flower  {
-
-    width: 9%;
-    left: 45%;
-    position: relative;
+  #flower{
+    width: 10%;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
   }
-
-
-
 }
 
 
 
 @media (min-width:770px) {
-
-.hack {
-
-  left:15%;
-
-}
 
 .landing {
   height: 80vh;
